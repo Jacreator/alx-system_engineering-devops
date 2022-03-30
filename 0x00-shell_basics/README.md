@@ -15,3 +15,5 @@ the file 12-file_type display the type of file and other info
 
 the file 13-symbolic_link links the /bin/ls to __ls__
 
+the file 14-copy_html copies all html from current directory to parent directory without duplicate
+

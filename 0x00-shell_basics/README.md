@@ -19,3 +19,5 @@ the file 14-copy_html copies all html from current directory to parent directory
 
 the file 100-lets_move move all upper case files to /tmp/u
 
+the file 101-clean_emacs delete all emacs file from the current directory
+

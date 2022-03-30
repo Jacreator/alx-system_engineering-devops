@@ -11,3 +11,5 @@ The file 9-firstdirdeletion deletes my_first_directory directory from the tmp di
 The file 10-back takes a current directory back one step or its previouse directory
 the file 11-lists display directory from current to previous and boot directory"
 
+the file 12-file_type display the type of file and other info
+

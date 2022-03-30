@@ -23,3 +23,4 @@ the file 101-clean_emacs delete all emacs file from the current directory
 
 the file 102-tree create multiple directory as tree
 
+the file 103-commas display a list of files and directory with commas seperating them

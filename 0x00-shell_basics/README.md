@@ -9,3 +9,5 @@ The file 7-movethatfile moves betty file to my_first_directory directory from th
 The file 8-firstdelete betty file from my_first_directory directory from then current directory
 The file 9-firstdirdeletion deletes my_first_directory directory from the tmp directory
 The file 10-back takes a current directory back one step or its previouse directory
+the file 11-lists display directory from current to previous and boot directory"
+

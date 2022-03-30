@@ -17,3 +17,5 @@ the file 13-symbolic_link links the /bin/ls to __ls__
 
 the file 14-copy_html copies all html from current directory to parent directory without duplicate
 
+the file 100-lets_move move all upper case files to /tmp/u
+

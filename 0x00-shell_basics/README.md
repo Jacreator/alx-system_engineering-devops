@@ -13,3 +13,5 @@ the file 11-lists display directory from current to previous and boot directory"
 
 the file 12-file_type display the type of file and other info
 
+the file 13-symbolic_link links the /bin/ls to __ls__
+

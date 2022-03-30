@@ -5,3 +5,4 @@ The file 3-listfiles display the long files of a current directory
 The file 4-listmorefiles display the long  and the hidden files of a current directory
 The file 5-listfilesdigitonly display the long  and the hidden and the digits files of a current directory
 The file 6-firstdirectory create a directoryfrom then current directory
+The file 7-movethatfile moves betty file to my_first_directory directory from then current directory

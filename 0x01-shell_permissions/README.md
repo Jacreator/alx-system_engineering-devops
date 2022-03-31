@@ -10,3 +10,4 @@ who ami i task done
 8-James_Bond make only others have permission to a file
 9-John_Doe give him some kinda permission
 10-mirror_permissions uses another file permission on a given file
+11-directories_permissions gives full permissions to directory and subdir

@@ -9,3 +9,4 @@ who ami i task done
 7-everybody add permission for everybody
 8-James_Bond make only others have permission to a file
 9-John_Doe give him some kinda permission
+10-mirror_permissions uses another file permission on a given file

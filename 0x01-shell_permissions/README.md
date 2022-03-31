@@ -15,3 +15,4 @@ who ami i task done
 13-change_group change group permission
 100-change_owner_and_group changes the owner and group to different users
 chown vincent:staff *
+101-symbolic_link_permission change ownership for a symbolic link

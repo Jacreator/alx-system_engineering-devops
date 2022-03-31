@@ -5,3 +5,4 @@ who ami i task done
 3-new_owner changes the file ownership
 4-empty creates an empty file
 5-execute change the file to and executable
+6-multiple_permissions add permission to a file

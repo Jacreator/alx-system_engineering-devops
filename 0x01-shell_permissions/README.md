@@ -13,3 +13,4 @@ who ami i task done
 11-directories_permissions gives full permissions to directory and subdir
 12-directory_permission give 751 permission to a directory
 13-change_group change group permission
+100-change_owner_and_group changes the owner and group to different users

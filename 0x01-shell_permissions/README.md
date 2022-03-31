@@ -7,3 +7,4 @@ who ami i task done
 5-execute change the file to and executable
 6-multiple_permissions add permission to a file
 7-everybody add permission for everybody
+8-James_Bond make only others have permission to a file

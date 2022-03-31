@@ -8,3 +8,4 @@ who ami i task done
 6-multiple_permissions add permission to a file
 7-everybody add permission for everybody
 8-James_Bond make only others have permission to a file
+9-John_Doe give him some kinda permission

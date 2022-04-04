@@ -20,3 +20,4 @@ The file 15-countthatword count and display the number of time a word is found i
 The file 16-whatsnext dispay lines containing the pattern root and 3 lines after them in the file.
 The file 17-hidethisword hide a word from a file
 
+The file 20-hiago deletes an alphabet from a file

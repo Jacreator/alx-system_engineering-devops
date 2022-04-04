@@ -25,3 +25,5 @@ The file 21-reverse reverses a file
 The file 22-users_and_homes display users and it root directory
 The file 100-empty_casks display all empty files 
 The file 101-gifs find all the gifs and display them according to some rules
+The file 102-acrostic do the acrostic decoding " >> README.md
+

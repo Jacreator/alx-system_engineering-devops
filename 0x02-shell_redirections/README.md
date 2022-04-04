@@ -15,3 +15,4 @@ echo "The file 12-newest_files displays files according to its created time" >> 
 
 
 The file 13-unique select unique works from another file
+The file 14-findthatword checks for a particular word in a file

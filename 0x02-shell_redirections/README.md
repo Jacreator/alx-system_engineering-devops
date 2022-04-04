@@ -21,3 +21,4 @@ The file 16-whatsnext dispay lines containing the pattern root and 3 lines after
 The file 17-hidethisword hide a word from a file
 
 The file 20-hiago deletes an alphabet from a file
+The file 21-reverse reverses a file

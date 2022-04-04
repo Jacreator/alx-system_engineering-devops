@@ -9,3 +9,4 @@ The file 7-file creates a new file and write to it
 The file 8-cwd_state write the result of ls -al into a file
 the file 9-duplicate_last_line writes the last line of a file into another
 The file 10-no_more_js finds a type of file and delete them
+The file 11-directories counts directory and subdirectories too

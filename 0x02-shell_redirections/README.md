@@ -22,3 +22,4 @@ The file 17-hidethisword hide a word from a file
 
 The file 20-hiago deletes an alphabet from a file
 The file 21-reverse reverses a file
+The file 22-users_and_homes display users and it root directory

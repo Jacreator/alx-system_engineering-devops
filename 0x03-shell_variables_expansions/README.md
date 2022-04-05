@@ -9,3 +9,4 @@ the file 7-create_global_variable does as the name reads
 The file 8-true_knowledge adds to an env variable
 The file 9-divide_and_rule return the division of two variable
 The file 10-love_exponent_breath display the exponent of a number
+the file 11-binary_to_decimal convert base 2 to base 10

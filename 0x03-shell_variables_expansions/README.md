@@ -3,3 +3,4 @@ the file 13-print_float display decimal number with 2 decimal
 the file 100-decimal_to_hexadecimal convert base 10 to 16
 The file 101-rot13 encode and decode file
 the file 102-odd print every other line from the input
+the file 103-water_and_stir display the sum of two numbers based on their base

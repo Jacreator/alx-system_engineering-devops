@@ -6,3 +6,4 @@ The file 4-global_varialbes display the env variables
 the file 5-local_varibles display functions, local env and env variables
 the file 6-create_local_variable does as the name reads
 the file 7-create_global_variable does as the name reads
+The file 8-true_knowledge adds to an env variable

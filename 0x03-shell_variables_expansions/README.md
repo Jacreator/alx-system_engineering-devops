@@ -3,3 +3,4 @@ the file 1-hello_you display the linux user
 the file 2-path add path to the env path
 the file 3-paths count directories in the env path
 The file 4-global_varialbes display the env variables
+the file 5-local_varibles display functions, local env and env variables
